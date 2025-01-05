@@ -18,7 +18,7 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
@@ -26,7 +26,7 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
   text-transform: uppercase;
   color: #2e2f42;
 }
@@ -72,6 +72,10 @@ body {
   height: 56px;
   background: #4d5ae5;
   cursor: pointer;
+}
+.button-main-hero:hover,
+.button-main-hero:focus {
+  color: #404bbf;
 }
 .info-feature {
   font-weight: 500;
