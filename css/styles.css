@@ -10,17 +10,14 @@ li {
 
 body {
   font-family: "Roboto", sans-serif;
-  font-size: 16px;
-  font-weight: "regular";
-  line-height: 24px;
-  letter-spacing: 2%;
-  background: #fff;
+  color: #434455;
+  background-color: #fff;
 }
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -28,7 +25,7 @@ body {
 .logo-header {
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
@@ -45,7 +42,7 @@ body {
   font-size: 16px;
   font-style: normal;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 .contacts-menu-tel {
@@ -53,7 +50,7 @@ body {
   font-size: 16px;
   font-style: normal;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 .section-main {
