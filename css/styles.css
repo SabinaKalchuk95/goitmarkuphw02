@@ -70,12 +70,18 @@ body {
   padding: 16px 32px;
   width: 169px;
   height: 56px;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   background: #4d5ae5;
   cursor: pointer;
 }
 .button-main-hero:hover,
 .button-main-hero:focus {
-  color: #404bbf;
+  background-color: #404bbf;
+  color: #ffffff;
 }
 .info-feature {
   font-weight: 500;
