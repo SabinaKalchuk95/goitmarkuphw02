@@ -82,7 +82,10 @@ body {
   background: #4d5ae5;
   cursor: pointer;
 }
-.button-main-hero:hover,
+.button-main-hero:hover {
+  color: #404bbf;
+  background-color: #404bbf;
+}
 .button-main-hero:focus {
   background-color: #404bbf;
   color: #404bbf;
