@@ -70,25 +70,18 @@ body {
   color: #fff;
 }
 .button-main-hero {
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
-  color: #fff;
+  color: #ffffff;
+  background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 150%;
   letter-spacing: 0.04em;
-  background: #4d5ae5;
-  cursor: pointer;
 }
 .button-main-hero:hover {
-  color: #404bbf;
   background-color: #404bbf;
 }
 .button-main-hero:focus {
   background-color: #404bbf;
-  color: #404bbf;
 }
 .info-feature {
   font-weight: 500;
