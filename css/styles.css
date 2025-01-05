@@ -80,9 +80,11 @@ body {
 }
 .button-main-hero:hover {
   background-color: #404bbf;
+  color: #404bbf;
 }
 .button-main-hero:focus {
   background-color: #404bbf;
+  color: #404bbf;
 }
 .info-feature {
   font-weight: 500;
