@@ -39,8 +39,8 @@ body {
 /*addres*/
 .nav-menu.menu-link:hover,
 .nav-menu.menu-link:focus,
-.contacts-menu:hover,
-.contacts-menu:focus {
+.contacts-menu.menu-link:hover,
+.contacts-menu.menu-link:focus {
   color: #404bbf;
 }
 .contacts {
