@@ -38,15 +38,21 @@ body {
 }
 /*addres*/
 .nav-menu.menu-link:hover,
-.nav-menu.menu-link:focus,
-.contacts-menu.menu-link:hover,
-.contacts-menu.menu-link:focus {
+.nav-menu.menu-link:focus {
+  color: #404bbf;
+}
+.contacts-menu:hover,
+.contacts-menu:focus {
+  color: #404bbf;
+}
+.contacts-menu-m:hover,
+.contacts-menu:focus {
   color: #404bbf;
 }
 .contacts {
   font-style: normal;
 }
-.contacts-menu {
+.contacts-menu-m {
   font-weight: 400;
   font-size: 16px;
   font-style: normal;
