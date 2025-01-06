@@ -37,8 +37,8 @@ body {
   color: #2e2f42;
 }
 /*addres*/
-.nav-menu.menu-link:hover,
-.nav-menu.menu-link:focus {
+.menu-link:hover,
+.menu-link:focus {
   color: #404bbf;
 }
 .contacts-menu:hover,
